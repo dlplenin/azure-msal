@@ -1,0 +1,16 @@
+D:\ws\tests\az204\azure-msal\bin\Debug\netcoreapp3.1\azure-msal.exe
+D:\ws\tests\az204\azure-msal\bin\Debug\netcoreapp3.1\azure-msal.deps.json
+D:\ws\tests\az204\azure-msal\bin\Debug\netcoreapp3.1\azure-msal.runtimeconfig.json
+D:\ws\tests\az204\azure-msal\bin\Debug\netcoreapp3.1\azure-msal.runtimeconfig.dev.json
+D:\ws\tests\az204\azure-msal\bin\Debug\netcoreapp3.1\azure-msal.dll
+D:\ws\tests\az204\azure-msal\bin\Debug\netcoreapp3.1\azure-msal.pdb
+D:\ws\tests\az204\azure-msal\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\ws\tests\az204\azure-msal\obj\Debug\netcoreapp3.1\azure-msal.csproj.AssemblyReference.cache
+D:\ws\tests\az204\azure-msal\obj\Debug\netcoreapp3.1\azure-msal.GeneratedMSBuildEditorConfig.editorconfig
+D:\ws\tests\az204\azure-msal\obj\Debug\netcoreapp3.1\azure-msal.AssemblyInfoInputs.cache
+D:\ws\tests\az204\azure-msal\obj\Debug\netcoreapp3.1\azure-msal.AssemblyInfo.cs
+D:\ws\tests\az204\azure-msal\obj\Debug\netcoreapp3.1\azure-msal.csproj.CoreCompileInputs.cache
+D:\ws\tests\az204\azure-msal\obj\Debug\netcoreapp3.1\azure-msal.csproj.CopyComplete
+D:\ws\tests\az204\azure-msal\obj\Debug\netcoreapp3.1\azure-msal.dll
+D:\ws\tests\az204\azure-msal\obj\Debug\netcoreapp3.1\azure-msal.pdb
+D:\ws\tests\az204\azure-msal\obj\Debug\netcoreapp3.1\azure-msal.genruntimeconfig.cache

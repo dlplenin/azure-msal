@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = azure_msal
+build_property.ProjectDir = D:\ws\tests\az204\azure-msal\

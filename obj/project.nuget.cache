@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xfIUuoZ5Y0Dymok4jihmDv1M35wEyz+Z7To+PP9+PTaUBzdj0r3KWXCcB3Q5tZapf7yX3LROgB0sUf0fzeYp5w==",
+  "success": true,
+  "projectFilePath": "D:\\ws\\tests\\az204\\azure-msal\\azure-msal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.identity.client\\4.42.1\\microsoft.identity.client.4.42.1.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

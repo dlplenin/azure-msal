@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "azure-msal/1.0.0": {
+        "dependencies": {
+          "Microsoft.Identity.Client": "4.42.1"
+        },
+        "runtime": {
+          "azure-msal.dll": {}
+        }
+      },
+      "Microsoft.Identity.Client/4.42.1": {
+        "runtime": {
+          "lib/netcoreapp2.1/Microsoft.Identity.Client.dll": {
+            "assemblyVersion": "4.42.1.0",
+            "fileVersion": "4.42.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "azure-msal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Identity.Client/4.42.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2uSf8zwByXpMSd18NkJj1VeraN0GI6kgB1xIBR2GOOfx1u37bOnpRessZREfhdsQbxtZzrokR2WowpLVuffd9w==",
+      "path": "microsoft.identity.client/4.42.1",
+      "hashPath": "microsoft.identity.client.4.42.1.nupkg.sha512"
+    }
+  }
+}
